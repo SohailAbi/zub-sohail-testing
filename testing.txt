@@ -1,3 +1,13 @@
-zubair ahmad
-Hi Sohail
+testing testing and 
+afljsafjsl f
+sfdalfjlsaf 
+
+while i<2:
+ print("goood")
+
+
+if 1= 1:
+ print("hello")
+ print("abc")
+ print("good morning")
 
